@@ -1,0 +1,1 @@
+# A Benchmark of different deep Anomaly Detection Algorithms on a designed data set for Conditional Monitoring
